@@ -1,0 +1,10 @@
+C:\projects\MVC3Application\InternetASPX.Tests\bin\Debug\InternetASPX.Tests.dll.config
+C:\projects\MVC3Application\InternetASPX.Tests\bin\Debug\InternetASPX.Tests.dll
+C:\projects\MVC3Application\InternetASPX.Tests\bin\Debug\InternetASPX.Tests.pdb
+C:\projects\MVC3Application\InternetASPX.Tests\bin\Debug\InternetASPX.dll
+C:\projects\MVC3Application\InternetASPX.Tests\bin\Debug\EntityFramework.dll
+C:\projects\MVC3Application\InternetASPX.Tests\bin\Debug\InternetASPX.pdb
+C:\projects\MVC3Application\InternetASPX.Tests\bin\Debug\EntityFramework.xml
+C:\projects\MVC3Application\InternetASPX.Tests\obj\Debug\InternetASPX.Tests.csprojResolveAssemblyReference.cache
+C:\projects\MVC3Application\InternetASPX.Tests\obj\Debug\InternetASPX.Tests.dll
+C:\projects\MVC3Application\InternetASPX.Tests\obj\Debug\InternetASPX.Tests.pdb

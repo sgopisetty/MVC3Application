@@ -1,0 +1,10 @@
+C:\projects\MVC3Application\InternetRazor.Tests\bin\Debug\InternetRazor.Tests.dll.config
+C:\projects\MVC3Application\InternetRazor.Tests\bin\Debug\InternetRazor.Tests.dll
+C:\projects\MVC3Application\InternetRazor.Tests\bin\Debug\InternetRazor.Tests.pdb
+C:\projects\MVC3Application\InternetRazor.Tests\bin\Debug\InternetRazor.dll
+C:\projects\MVC3Application\InternetRazor.Tests\bin\Debug\EntityFramework.dll
+C:\projects\MVC3Application\InternetRazor.Tests\bin\Debug\InternetRazor.pdb
+C:\projects\MVC3Application\InternetRazor.Tests\bin\Debug\EntityFramework.xml
+C:\projects\MVC3Application\InternetRazor.Tests\obj\Debug\InternetRazor.Tests.csprojResolveAssemblyReference.cache
+C:\projects\MVC3Application\InternetRazor.Tests\obj\Debug\InternetRazor.Tests.dll
+C:\projects\MVC3Application\InternetRazor.Tests\obj\Debug\InternetRazor.Tests.pdb
